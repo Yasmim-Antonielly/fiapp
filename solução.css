@@ -1,0 +1,114 @@
+/* Formatação Home */
+
+iframe{
+    height: 84px;
+    width: 1440px;
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    padding: 0px
+}
+
+/* Formatação Container Geral */
+.container_geral{
+    width: 1440px;
+    height: 2200px;
+    margin: auto;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+
+header {
+    width: 1152px;
+    height: 216px;
+    gap: 32px;
+    padding: 75px 144px 116px 144px;
+    background-color: #F5F7FA;
+}
+
+/* Formatação Titulo Principal */
+
+.container_tituloprincipal{
+    width: 1133px;
+    height: 152px;
+}
+
+h1{
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 76px;
+    color: #4D4D4D;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+span{
+    color: #4CAF4F;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 76px;
+}
+
+
+
+.container_paragrafoprincipal{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 48px;
+    gap: 104px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #717171;
+}
+
+/* Formatação Subtitulos */
+h2{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+    gap: 8px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #4D4D4D;
+}
+
+/* Formatação h4 principal */
+h4{
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #717171;
+}
+
+/* Formatação Paragrafo */
+
+p{
+    font-weight: 400px;
+    font-size: 19px;
+    line-height: 24px;
+    padding: 0 185px;
+    color: #4D4D4D;
+
+}
+
+ol{
+    font-weight: 400px;
+    font-size: 19px;
+    line-height: 24px;
+    padding: 0 185px;
+    color: #4D4D4D;
+}
+
+body{
+    padding: 96px 144px 96px 144px;
+}
+/* Formatação do Subtitulo "Fale Conosco" */
